@@ -8,7 +8,7 @@ Yapay zeka destekli Ollama LLM üzerinden çalışan basit bir Python kodu üret
 ### 2. Kod Üretimi Ekranı
 Kullanıcılar giriş yaptıktan sonra, yapay zeka destekli Python kodu üretme ekranına yönlendirilirler. Burada, bir prompt girerek yapay zekadan Python kodu ve başlık alabilirler.
 
-![Kod Üretimi Ekranı](screenshots/code-generation.png)
+![Kod Üretimi Ekranı](screenshots/code-generation.PNG)
 
 
 ## Proje İçeriği
